@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Minh</h1>
 <h3 align="center">A passionate, motivated frontend developer from France</h3>
 
-- 🔭 I’m currently working on [Next JS](https://nguyen-minh.dev)
+- 🔭 I’m currently working on [Next JS](https://nguyen-minh-fashion.vercel.app/)
 
 - 🌱 I’m currently learning **Laravel and Gsap**
 
 - 📫 How to reach me **minhstrasbourg@gmail.com**
 
-<h3 align="left">My website : https://nguyen-minh-portfolio.vercel.app/</h3>
+<h3 align="left">My website : https://nguyen-minh.dev/</h3>
 <p align="left">
 </p>
 
